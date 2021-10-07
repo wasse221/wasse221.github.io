@@ -1,0 +1,83 @@
+.navbar-brand{
+    font-size: 27px;
+}
+.nav-item{
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.lala{
+    color: white;
+    padding-right:70px ;
+}
+.conteneur1{
+    padding-top:70px ;
+    background-color:#003151 ;
+}
+
+.lala2{
+    width: 400px;
+}
+.conteneur2{
+    padding-top:50px ;
+}
+.lolo{
+    padding-left: 70px;
+}
+.toto{
+    width: 300px;
+}
+.conteneur2{
+    background-color:#a5d5f8 ;
+}
+.wa{
+    color: rgb(97, 25, 12);
+    font-size: 30px;
+}
+.conteneur3{
+    padding-top: 50px;
+}
+.foto2{
+    width: 400px;
+}
+.conteneur4{
+    padding-top: 50px;
+    background-color:#a5d5f8 ;
+}
+.input2{
+    width: 150px;
+    border-radius: 15px;
+    background-color: rgb(255, 61, 27);
+    border-color: rgb(245, 51, 17);
+}
+.input1{
+    width: 300px;
+    border-radius: 15px;
+    border-color: white;
+}
+.conteneur5{
+    padding-top: 50px;
+    background-color: #003151;
+    height: 220px;
+}
+.you{
+    color: white;
+}
+.conteneur6{
+    padding-top:60px ;
+    background-color: tomato;
+    height: 250px; ;
+}
+.you2{
+    color: white;
+    font-size: 30px;
+}
+.nana{
+    padding-left: 200px;
+}
+.wass{
+    padding-right:200px ;
+    
+}
+.conteneur7{
+    background-color: black;
+}
